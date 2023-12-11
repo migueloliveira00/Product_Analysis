@@ -26,4 +26,8 @@ Rockbuster Stealth LLC, a former global movie rental chain, is adapting to the d
 + Address underperforming genres and movies by developing action plans based on customer input. Use customer feedback and insights to refine content offerings and marketing strategies for better results.
 + Enhance customer retention by creating a simple and effective loyalty program. Reward top customers with exclusive benefits and incentives to foster loyalty and repeat business.
 
-## Learning Experience
+## Learning Experience:
+In tackling this project, my most significant challenge was acquiring and applying SQL skills. To overcome this obstacle, I dedicated time to researching various SQL queries, closely studying syntax intricacies, and engaging in constructive practice sessions guided by my mentor. The breakthrough came when I gained a solid understanding of common table expressions and subqueries. Armed with this knowledge, I could then formulate more intricate variables, ultimately enhancing the depth and utility of the information in my analyses.
+
+## Data Source:
+Rockbuster Stealth LLC [Data Set]. CareerFoundry.
