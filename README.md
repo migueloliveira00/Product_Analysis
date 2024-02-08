@@ -20,8 +20,8 @@ Rockbuster Stealth LLC, a former global movie rental chain, is adapting to the d
 + Established connections between tables through inner joins.
 + Formulated outer statements to create new variables, such as "average_amount_paid" and "top_customer_count."
 
-## Visualization:
-https://public.tableau.com/app/profile/miguel.oliveira8698/viz/CFDataImmersion3_10-MiguelOliveira/Sheet1
+## Tableau Visualization:
+[Click here to visit the Tableau visualization](https://public.tableau.com/app/profile/miguel.oliveira8698/viz/CFDataImmersion3_10-MiguelOliveira/Sheet1)
 
 ## Recommendations & Findings:
 + Prioritize resources and efforts on markets and genres with the highest sales to maximize revenue. Use data analysis and market research to identify key areas for investment and growth.
